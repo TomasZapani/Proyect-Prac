@@ -1,0 +1,7 @@
+Rtas de las preg:
+1_No hay valores nulos en nuestros datos
+2_No hay val incompletos
+3_show_id: Porque es un identificador único sin valor analítico.
+title: Podría eliminarse si el nombre del contenido no aporta información al análisis.
+4_Es un tipo de dato int64, ya es int
+5_Sí puedo, el result está en la notebook
