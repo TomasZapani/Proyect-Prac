@@ -1,0 +1,16 @@
+
+1_RVSN USSR
+2_1957      3
+1958     28
+1959     20
+1960     39
+1961     52
+       ... 
+2016     90
+2017     92
+2018    117
+2019    109
+2020     63
+3_Vario de forma negativa
+4_El mes 12
+5_Fueron seguras siempre
